@@ -1,4 +1,3 @@
-#VINAY_SRIDHARA COMMENTS ON THE PROJECT "ECOSIA"
 - To view the output in the development mode, follow the steps as given below:
 1) In the console, navigate to the project folder.
 2) Run command "npm install". This will install all the dependencies and creates a node-modules folder.
